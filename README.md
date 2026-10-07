@@ -102,3 +102,4 @@ HTTP: `POST /upload` (multipart field `file`, header `x-socket-id`), `GET /uploa
 - **Upload says "Join the chat first"**: the connection dropped; wait for "Reconnecting…" to disappear and retry.
 - **Can't reach it from your phone**: allow Node through your firewall and use your computer's LAN IP.
 "# chat-appp" 
+"# chat-app" 
